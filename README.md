@@ -12,4 +12,4 @@ CSS
 JavaScript
 
 Live Demo:
-(https://panditvatshal-blip.github.io/CODSOFT-Web-Devlopment/)
+(https://panditvatshal-blip.github.io/CODSOFT-Web-Development/)
